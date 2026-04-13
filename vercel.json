@@ -1,11 +1,5 @@
 {
-  "cleanUrls": true,
-  "headers": [
-    {
-      "source": "/(.*).html",
-      "headers": [
-        { "key": "Content-Type", "value": "text/html; charset=utf-8" }
-      ]
-    }
-  ]
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null
 }
